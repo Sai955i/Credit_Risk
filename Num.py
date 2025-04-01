@@ -1,0 +1,10 @@
+x=10;
+y=20.0;
+z=30+40j;
+print(x+y);
+print(x-y);     
+print(x*y);
+print(x/y);
+print(type(z));
+print(type(x));
+print(type(y));
